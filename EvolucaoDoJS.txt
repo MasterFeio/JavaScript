@@ -1,0 +1,6 @@
+JavaScript(Netscape) não é Java.
+
+A versão ECMA é a versão padronizada do JavaScript.
+
+NodeJs é uma maquina que roda JS fora do navegador.
+
