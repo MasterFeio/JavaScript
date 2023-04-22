@@ -1,0 +1,28 @@
+Aritmétricos para calculos(Binários):
+- +;
+- -;
+- *;
+- /;
+- %;
+- **;
+
+Precedência: Primeiro (), Segundo **, Terceiro * / %, Quarto + -
+
+Relacionais:
+> - maior
+< - menor 
+>= maior ou igual
+<= menor ou igual
+== igual
+!= diferente
+
+Lógicos:
+! - negação
+&& - conjunção (é)
+|| - disjunção (ou)
+
+Precedência: Aritmétricos, Relacionais, Lógicos(!, &&, ||)
+
+Ternário(?:):
+teste ? true : false
+Ex: a >= 7 ? "Aprovado" : "Reprovado"
