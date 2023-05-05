@@ -1,0 +1,11 @@
+/*Condição simples*/
+
+if(condição){
+    true
+}
+
+if(condição){
+    true
+}else{
+    false
+}
